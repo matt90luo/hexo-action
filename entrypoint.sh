@@ -13,7 +13,7 @@ git config --global user.name "$INPUT_USER_NAME"
 git config --global user.email "$INPUT_USER_EMAIL"
 
 # install pandoc
-sudo apt-get install pandoc
+apt-get install pandoc
 
 
 # install hexo env
